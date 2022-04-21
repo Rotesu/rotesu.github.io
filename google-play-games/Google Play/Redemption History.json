@@ -1,0 +1,19 @@
+[{
+  "redemptionHistory": {
+    "acquisition": [{
+      "document": {
+        "title": "$2 discount from Play on an app, game, or in-app item"
+      }
+    }],
+    "device": {
+      "model": "Redmi Note 8 Pro",
+      "carrier": "Smart Communications",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 8 Pro"
+    },
+    "userCountry": "RU",
+    "ipCountry": "RU",
+    "status": "REDEEMED",
+    "redemptionChangeTime": "2020-12-09T14:08:20.527Z"
+  }
+}]

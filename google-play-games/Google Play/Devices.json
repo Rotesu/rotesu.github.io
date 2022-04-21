@@ -1,0 +1,34 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Smart Communications",
+      "playStoreClientVersion": 83011910,
+      "manufacturer": "Xiaomi",
+      "modelName": "Redmi Note 8 Pro",
+      "deviceName": "begonia",
+      "productName": "begonia_ru",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "5909712896",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "PH",
+      "userLocale": "ru_RU",
+      "buildFingerprint": "Redmi/begonia_ru/begonia:11/RP1A.200720.011/V12.5.3.0.RGGRUXM:user/release-keys",
+      "androidSdkVersion": "30"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Smart Communications",
+      "manufacturer": "Xiaomi",
+      "modelName": "Redmi Note 8 Pro",
+      "deviceName": "begonia",
+      "productName": "begonia_ru",
+      "retailBrand": "Redmi",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "PH",
+      "userLocale": "ru_RU",
+      "androidSdkVersion": "30"
+    },
+    "deviceRegistrationTime": "2019-10-17T09:22:11.147Z",
+    "userAddedOnDeviceTime": "2019-10-17T09:32:12.804Z",
+    "lastTimeDeviceActive": "2022-04-19T14:48:00.482015Z"
+  }
+}]

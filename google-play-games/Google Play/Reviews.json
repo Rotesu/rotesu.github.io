@@ -1,0 +1,1194 @@
+[{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "SimCity BuildIt"
+    },
+    "creationTime": "2022-03-13T17:31:41.180Z",
+    "starRating": 5,
+    "comment": "Пока все хорошо)",
+    "structuredReviewResponse": [{
+      "question": "Это \u003cb\u003eувлекательная\u003c/b\u003e игра?",
+      "responseOptionType": "Positive"
+    }, {
+      "question": "Это \u003cb\u003eстрашная\u003c/b\u003e игра?",
+      "responseOptionType": "Negative"
+    }, {
+      "question": "Это игра о \u003cb\u003eтрюках на машинах\u003c/b\u003e?",
+      "responseOptionType": "Negative"
+    }]
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Pixels - Mood \u0026 Mental Health"
+    },
+    "creationTime": "2019-12-04T15:26:56.841Z",
+    "starRating": 5,
+    "comment": "",
+    "structuredReviewResponse": [{
+      "question": "Оказывает ли это приложение \u003cb\u003eположительное влияние\u003c/b\u003e на Вашу жизнь?",
+      "responseOptionType": "Neutral"
+    }, {
+      "question": "В приложении есть \u003cb\u003eобъявления, которые прерывают его работу\u003c/b\u003e?",
+      "responseOptionType": "Neutral"
+    }, {
+      "question": "Контент приложения доступен на \u003cb\u003eрусском\u003c/b\u003e языке?",
+      "responseOptionType": "Positive"
+    }]
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "LightX - продвинутый фоторедактор"
+    },
+    "creationTime": "2018-01-23T09:59:26.207Z",
+    "starRating": 5,
+    "comment": "",
+    "structuredReviewResponse": [{
+      "question": "В приложении можно \u003cb\u003eделать резервные копии фото\u003c/b\u003e?",
+      "responseOptionType": "Neutral"
+    }]
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Gett: доставка и такси в одном"
+    },
+    "creationTime": "2017-10-09T15:48:52.637Z",
+    "starRating": 5,
+    "comment": "Очень хорошие водители"
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Instagram"
+    },
+    "creationTime": "2017-08-19T13:26:05.331Z",
+    "starRating": 5,
+    "comment": "После обновления приложение часто зависает и отключается"
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Яндекс.Музыка и Подкасты – скачивайте и слушайте"
+    },
+    "creationTime": "2017-04-22T12:44:33.191Z",
+    "starRating": 5,
+    "comment": "",
+    "structuredReviewResponse": [{
+      "question": "В приложении удобно \u003cb\u003eсоздавать плейлисты\u003c/b\u003e?",
+      "responseOptionType": "Positive"
+    }]
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Stack"
+    },
+    "creationTime": "2016-04-18T13:59:32.976Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "The Simpsons™: Tapped Out"
+    },
+    "creationTime": "2016-01-07T07:08:39.836Z",
+    "starRating": 5,
+    "comment": "Добавляйтесь Heike__K"
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Agar.io"
+    },
+    "creationTime": "2015-10-20T19:14:07.806Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Dumb Ways to Die"
+    },
+    "creationTime": "2015-10-16T15:55:17.643Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Give It Up! - ритм прыгать"
+    },
+    "creationTime": "2015-09-07T14:21:04.210Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Shazam (шазам)"
+    },
+    "creationTime": "2015-08-24T09:47:39.268Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Book",
+      "title": "Мальчик в полосатой пижаме"
+    },
+    "creationTime": "2015-06-13T08:58:10.244Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.perm.kate_new_3"
+    },
+    "creationTime": "2015-06-13T08:51:13.328Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Hopeless - Тёмная пещера"
+    },
+    "creationTime": "2015-05-16T12:34:24.841Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Repost for Instagram"
+    },
+    "creationTime": "2015-03-29T13:01:41.103Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Viber бум"
+    },
+    "creationTime": "2015-03-29T13:00:43.554Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Book",
+      "title": "Трое в одной лодке (кроме собаки) (перевод М.А. Энгельгардта)"
+    },
+    "creationTime": "2015-03-26T08:50:55.490Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Daddy Was A Thief"
+    },
+    "creationTime": "2015-03-24T16:22:33.435Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Читай"
+    },
+    "creationTime": "2015-03-09T10:06:59.593Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "CSI: Hidden Crimes"
+    },
+    "creationTime": "2015-03-08T11:36:24.882Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.instamag.activity"
+    },
+    "creationTime": "2015-02-25T13:39:19.178Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Блокнот+ бесплатно"
+    },
+    "creationTime": "2015-02-14T13:32:51.054Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "The Battle Cats"
+    },
+    "creationTime": "2015-02-03T06:47:43.740Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Don\u0027t Touch The Spikes"
+    },
+    "creationTime": "2015-02-03T06:46:22.589Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "zzSUNSET SCRABBLE™"
+    },
+    "creationTime": "2015-01-29T18:09:03.020Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "AfterFocus"
+    },
+    "creationTime": "2015-01-26T09:19:41.196Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Advanced Download Manager"
+    },
+    "creationTime": "2015-01-19T14:10:44.780Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.perm.kate_new_2"
+    },
+    "creationTime": "2015-01-07T11:52:43.698Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Маленькие вещи навсегда"
+    },
+    "creationTime": "2014-12-30T13:07:12.290Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Biotix: Phage Genesis"
+    },
+    "creationTime": "2014-12-25T11:07:55.824Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Deemo"
+    },
+    "creationTime": "2014-12-25T11:06:03.951Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Lines"
+    },
+    "creationTime": "2014-11-27T15:11:53.959Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.cleanmaster.security"
+    },
+    "creationTime": "2014-11-27T15:04:48.719Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.ksmobile.cb"
+    },
+    "creationTime": "2014-11-19T20:49:49.918Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.htlgames.lines98"
+    },
+    "creationTime": "2014-11-07T15:48:24.714Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.vk.video"
+    },
+    "creationTime": "2014-11-04T20:36:28.900Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.graveck.strata"
+    },
+    "creationTime": "2014-10-21T11:07:30.330Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "FaceQ"
+    },
+    "creationTime": "2014-10-20T15:40:56.203Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Яндекс.Браузер (бета)"
+    },
+    "creationTime": "2014-10-11T13:41:27.508Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Solo Launcher - чистый, DIY"
+    },
+    "creationTime": "2014-10-06T17:33:21.307Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Bio Inc - Biomedical Plague and rebel doctors."
+    },
+    "creationTime": "2014-09-22T16:37:48.895Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Угадай слова"
+    },
+    "creationTime": "2014-09-15T14:13:03.403Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "me.everything.launcher"
+    },
+    "creationTime": "2014-09-14T07:02:06.592Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Timehop"
+    },
+    "creationTime": "2014-08-26T17:22:41.087Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Lines 98"
+    },
+    "creationTime": "2014-07-14T11:30:54.394Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.mookoolaa.lines"
+    },
+    "creationTime": "2014-07-05T02:37:20.173Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Филворды - слова из букв"
+    },
+    "creationTime": "2014-07-02T02:26:59.692Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Don\u0027t Tap The Color Tiles"
+    },
+    "creationTime": "2014-06-29T16:24:25.351Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "скрести логотип викторины. Борьба игра-головоломка"
+    },
+    "creationTime": "2014-06-29T16:23:19.516Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "EyeEm - Фото Фильтры Камера"
+    },
+    "creationTime": "2014-06-21T13:07:45.244Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.TreninGames.GB"
+    },
+    "creationTime": "2014-06-15T12:19:52.669Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.ijinshan.kbatterydoctor_en"
+    },
+    "creationTime": "2014-05-22T16:22:09.175Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.roidapp.photogrid"
+    },
+    "creationTime": "2014-05-17T07:09:27.394Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.myboyfriendisageek.videocatcher.demo"
+    },
+    "creationTime": "2014-05-06T14:14:36.042Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Logo Quiz!"
+    },
+    "creationTime": "2014-05-06T14:14:32.468Z",
+    "starRating": 2,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Zipper - File Management"
+    },
+    "creationTime": "2014-04-30T03:07:08.340Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.oxothuk"
+    },
+    "creationTime": "2014-04-27T13:40:43.587Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: быстрый браузер"
+    },
+    "creationTime": "2014-04-27T13:40:42.803Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Coin Dozer: Sweepstakes"
+    },
+    "creationTime": "2014-04-27T13:40:39.677Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.tapsarena.guess"
+    },
+    "creationTime": "2014-04-27T13:40:38.479Z",
+    "starRating": 2,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "air.testlife"
+    },
+    "creationTime": "2014-04-27T13:40:35.364Z",
+    "starRating": 2,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Shadow Fight 2"
+    },
+    "creationTime": "2014-04-23T14:18:47.701Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "PhotoRepost - Repost Instagram"
+    },
+    "creationTime": "2014-04-20T07:21:55.876Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "2048 Number Puzzle game"
+    },
+    "creationTime": "2014-04-20T07:21:54.319Z",
+    "starRating": 2,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "LINE Cookie Run"
+    },
+    "creationTime": "2014-04-20T07:17:10.388Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Длинные нарды"
+    },
+    "creationTime": "2014-04-20T07:17:08.857Z",
+    "starRating": 2,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Plague Inc."
+    },
+    "creationTime": "2014-04-11T16:59:54.915Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Smash Hit"
+    },
+    "creationTime": "2014-03-23T09:54:11.084Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.setup2app.receptydlyamultivarki"
+    },
+    "creationTime": "2014-03-19T19:08:20.113Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "vaha.recipes.multivarka"
+    },
+    "creationTime": "2014-03-14T19:43:21.951Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Твиттер"
+    },
+    "creationTime": "2014-03-05T15:03:31.165Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "WhatsApp Messenger"
+    },
+    "creationTime": "2014-03-05T15:03:21.578Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "4 Фотки 1 Слово - Угадай Слово"
+    },
+    "creationTime": "2014-02-16T19:13:58.307Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "ua.abode.androidgames.triada"
+    },
+    "creationTime": "2014-02-16T13:42:38.573Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "de.math.maniac"
+    },
+    "creationTime": "2014-02-04T03:58:26.471Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "AVG антивирус \u0026 Безопасность"
+    },
+    "creationTime": "2014-02-04T03:58:24.001Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "ВКонтакте: музыка, видео, чаты"
+    },
+    "creationTime": "2014-02-04T03:58:20.889Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Adobe Acrobat Reader: Edit PDF"
+    },
+    "creationTime": "2014-02-04T03:58:18.241Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "PicCollage: Photo Layout Edits"
+    },
+    "creationTime": "2014-01-28T21:15:53.350Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Редактор фото - Photo Editor"
+    },
+    "creationTime": "2014-01-24T09:49:52.062Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Heroes of Dragon Age"
+    },
+    "creationTime": "2014-01-23T04:51:43.544Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Compulsive"
+    },
+    "creationTime": "2014-01-22T07:00:30.415Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Дневник, дневник, ежедневник с замком - Diaro"
+    },
+    "creationTime": "2014-01-17T07:15:56.453Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "FBReader"
+    },
+    "creationTime": "2014-01-17T07:11:11.194Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Book",
+      "title": "Преступление и наказание"
+    },
+    "creationTime": "2014-01-17T07:11:08.941Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Book",
+      "title": "Евгений Онегин"
+    },
+    "creationTime": "2014-01-17T07:11:06.735Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Book",
+      "title": "Тарас Бульба"
+    },
+    "creationTime": "2014-01-17T07:11:03.288Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.fox3d.skycups"
+    },
+    "creationTime": "2014-01-16T14:07:53.419Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Коллаж - Фоторедактор"
+    },
+    "creationTime": "2014-01-16T14:06:35.333Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.geekbeach.battlemonkeys"
+    },
+    "creationTime": "2014-01-07T09:47:34.078Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Subway Surfers"
+    },
+    "creationTime": "2014-01-07T09:47:30.859Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "KD Collage Free"
+    },
+    "creationTime": "2014-01-07T09:47:03.109Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "com.cleanmaster.mguard"
+    },
+    "creationTime": "2014-01-07T09:47:00.314Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "DEER HUNTER CLASSIC"
+    },
+    "creationTime": "2014-01-07T09:46:56.241Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Sonic Dash - бег и гонки игра"
+    },
+    "creationTime": "2014-01-04T14:27:19.967Z",
+    "starRating": 3,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "4 Фото 1 Слово: Еще Фото"
+    },
+    "creationTime": "2014-01-04T14:21:15.692Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "BADLAND"
+    },
+    "creationTime": "2014-01-04T14:20:36.861Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Book",
+      "title": "Третье человечество"
+    },
+    "creationTime": "2014-01-04T12:18:12.186Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Candy Camera — селфи"
+    },
+    "creationTime": "2014-01-04T12:17:07.805Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Маджонг"
+    },
+    "creationTime": "2014-01-04T10:50:27.269Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Gunspell - Match-3 Пазл РПГ"
+    },
+    "creationTime": "2014-01-03T16:50:10.316Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "AccuWeather прогноз погоды"
+    },
+    "creationTime": "2014-01-03T16:50:07.044Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Crowdfire: Social Media Manager"
+    },
+    "creationTime": "2013-12-20T15:41:29.855Z",
+    "starRating": 4,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Minion Rush: Running Game"
+    },
+    "creationTime": "2013-10-12T01:59:27.990Z",
+    "starRating": 5,
+    "comment": ""
+  }
+},
+{
+  "review": {
+    "document": {
+      "documentType": "Android Apps",
+      "title": "Аэропорт Сити: Построй город"
+    },
+    "creationTime": "2012-02-26T12:47:10.440Z",
+    "starRating": 5,
+    "comment": ""
+  }
+}]

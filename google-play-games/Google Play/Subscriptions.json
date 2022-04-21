@@ -1,0 +1,104 @@
+[{
+  "subscription": {
+    "period": {
+      "unit": "MONTH",
+      "count": 1
+    },
+    "price": "0,00 ₽",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Canva Pro — на месяц (Canva: дизайн, фото и видео)"
+    },
+    "expirationDate": "2020-06-29T17:10:01.975Z",
+    "pricing": [{
+      "period": {
+        "unit": "SECOND",
+        "count": 1209600
+      },
+      "price": "0,00 ₽",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "349,00 ₽",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2020-06-28T17:11:25.670Z",
+      "type": "Cancel",
+      "cancelRecord": {
+        "userCancellationReason": "Not enough usage"
+      }
+    }],
+    "state": "Canceled"
+  }
+},
+{
+  "subscription": {
+    "period": {
+      "unit": "MONTH",
+      "count": 1
+    },
+    "price": "0,00 ₽",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Яндекс Плюс (Яндекс Музыка, Книги, Подкасты)"
+    },
+    "expirationDate": "2019-11-09T19:35:14.457Z",
+    "pricing": [{
+      "period": {
+        "unit": "SECOND",
+        "count": 7776000
+      },
+      "price": "0,00 ₽",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "169,00 ₽",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2019-11-16T23:35:16.774Z",
+      "type": "Cancel"
+    }],
+    "state": "Canceled"
+  }
+},
+{
+  "subscription": {
+    "period": {
+      "unit": "MONTH",
+      "count": 1
+    },
+    "price": "0,00 ₽",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Google Play Pass"
+    },
+    "pricing": [{
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "0,00 ₽",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "149,00 ₽",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2021-09-21T13:56:45.127Z",
+      "type": "Cancel"
+    }],
+    "state": "Canceled"
+  }
+}]

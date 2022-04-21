@@ -1,0 +1,130 @@
+{
+	"Player.Is.Agastia" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Item.Bought.Weapon.BasicWoodenSword" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Item.Equipped.Weapon" : {
+		"__type" : "string",
+		"value" : "Weapon.BasicWoodenSword"
+	},
+	"Item.Bought.Ability.BasicAppleThrow" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Item.Equipped.Ability" : {
+		"__type" : "string",
+		"value" : "Ability.BasicAppleThrow"
+	},
+	"Item.Bought.Skin.Default" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Item.Equipped.Skin" : {
+		"__type" : "string",
+		"value" : "Skin.Default"
+	},
+	"Game.Launch.Count" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Game.Version.Code" : {
+		"__type" : "int",
+		"value" : 101
+	},
+	"Test.Code" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Game.First.Launch.Complete" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Game.Difficulty" : {
+		"__type" : "GameManager+GameDifficultyOptions,Assembly-CSharp",
+		"value" : 0
+	},
+	"World.1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Level.1.1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Max.World" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Max.Level.1" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Game.Install.Time" : {
+		"__type" : "long",
+		"value" : 637739497919071140
+	},
+	"Player.Coins" : {
+		"__type" : "int",
+		"value" : 343
+	},
+	"Player.Apples" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Level.Won.Difficulty.1.1" : {
+		"__type" : "GameManager+GameDifficultyOptions,Assembly-CSharp",
+		"value" : 0
+	},
+	"TreasureChests.1.1" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"RegularChests.Total.1.1" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"RegularChests.1.1" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Level.1.2" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SGM.Version" : {
+		"__type" : "string",
+		"value" : "prod-v-1"
+	},
+	"SGM.Savetime" : {
+		"__type" : "long",
+		"value" : 637739505018795200
+	},
+	"Garraldin.1.2" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Level.Won.Difficulty.1.2" : {
+		"__type" : "GameManager+GameDifficultyOptions,Assembly-CSharp",
+		"value" : 0
+	},
+	"TreasureChests.1.2" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"RegularChests.Total.1.2" : {
+		"__type" : "int",
+		"value" : 12
+	},
+	"RegularChests.1.2" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Level.1.3" : {
+		"__type" : "bool",
+		"value" : true
+	}
+}

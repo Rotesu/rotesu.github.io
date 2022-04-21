@@ -1,0 +1,40 @@
+[{
+  "promotionHistory": {
+    "instanceContext": {
+      "country": "RU",
+      "document": {
+        "title": "$2 discount from Play on an app, game, or in-app item"
+      },
+      "totalQuantity": "1",
+      "expiryTime": "2020-12-30T14:08:20.375Z"
+    },
+    "promotionHistory": {
+      "promotionState": [{
+        "status": "ACTIVE",
+        "timestamp": "2020-12-09T14:08:20.527Z",
+        "device": {
+          "model": "Redmi Note 8 Pro",
+          "carrier": "Smart Communications",
+          "manufacturer": "Xiaomi",
+          "deviceDisplayName": "Xiaomi Redmi Note 8 Pro"
+        },
+        "userCountry": "RU",
+        "userLocale": {
+          "languageCode": "ru_RU",
+          "country": "RU"
+        }
+      }, {
+        "status": "PROVISIONED",
+        "timestamp": "2020-12-12T18:55:07.520Z",
+        "userCountry": "RU",
+        "userLocale": {
+          "languageCode": "ru_RU",
+          "country": "RU"
+        }
+      }]
+    },
+    "lastModificationTime": "2020-12-09T14:08:20.527Z"
+  }
+},
+{
+}]
